@@ -17,7 +17,7 @@ Kinetic focuses on low-stakes micro-steps. Instead of a complex list, you get a 
 
 - Zero-Friction Input: A single chat bar. No forms, no stress.
 - Micro-Step Focus: Encourages breaking big tasks into tiny, manageable "sends."
-- Privacy-Centric: No tracking, no ads. API Key and data stay on the user's device.
+- Privacy-Centric: No tracking, no ads. data stay on the user's device.
 - Session Management: Start new sessions for different parts of the day without losing history.
 
 ## 🤝 Contributing
