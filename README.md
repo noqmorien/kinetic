@@ -9,16 +9,16 @@ For many, opening a traditional task manager feels like a chore. The friction of
 ### ⚡ The Kinetic Solution: "Chat-First"
 
 Kinetic focuses on low-stakes micro-steps. Instead of a complex list, you get a clean chat interface:
-1. Brain Dump: Simply text your steps as they come ("walk to kitchen", "grab a glass").
-2. Instant Validation: The app replies with randomized supportive messages to keep your momentum going.
-3. The "Convert" Moment: Tap the Burger Menu to instantly transform your chat history into a functional To-Do Card.
+1. Simply text your steps as they come ("walk to kitchen", "grab a glass").
+2. The app replies with randomized supportive messages to keep your momentum going.
+3. Tap the Burger Menu to instantly transform your chat history into a functional To-Do Card.
 
 ### ✨ Key Features
 
-- Zero-Friction Input: A single chat bar. No forms, no stress.
-- Micro-Step Focus: Encourages breaking big tasks into tiny, manageable "sends."
-- Privacy-Centric: No tracking, no ads. data stay on the user's device.
-- Session Management: Start new sessions for different parts of the day without losing history.
+- A single chat bar. No forms, no stress.
+- Encourages breaking big tasks into tiny, manageable "sends."
+- No tracking, no ads. data stay on the user's device.
+- Start new sessions for different parts of the day without losing history.
 
 ### 🤝 Contributing
 
